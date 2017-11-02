@@ -1,0 +1,20 @@
+C:\Users\Alex Dochitoiu\source\repos\Chess_PawnsOnly\Chess_PawnsOnly\bin\Debug\Chess_PawnsOnly.exe.config
+C:\Users\Alex Dochitoiu\source\repos\Chess_PawnsOnly\Chess_PawnsOnly\bin\Debug\Chess_PawnsOnly.exe
+C:\Users\Alex Dochitoiu\source\repos\Chess_PawnsOnly\Chess_PawnsOnly\bin\Debug\Chess_PawnsOnly.pdb
+C:\Users\Alex Dochitoiu\source\repos\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.csprojResolveAssemblyReference.cache
+C:\Users\Alex Dochitoiu\source\repos\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.GameForm.resources
+C:\Users\Alex Dochitoiu\source\repos\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.Properties.Resources.resources
+C:\Users\Alex Dochitoiu\source\repos\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.csproj.GenerateResource.Cache
+C:\Users\Alex Dochitoiu\source\repos\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.csproj.CoreCompileInputs.cache
+C:\Users\Alex Dochitoiu\source\repos\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.exe
+C:\Users\Alex Dochitoiu\source\repos\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.pdb
+C:\Users\laios\Desktop\Chess_PawnsOnly\Chess_PawnsOnly\bin\Debug\Chess_PawnsOnly.exe.config
+C:\Users\laios\Desktop\Chess_PawnsOnly\Chess_PawnsOnly\bin\Debug\Chess_PawnsOnly.exe
+C:\Users\laios\Desktop\Chess_PawnsOnly\Chess_PawnsOnly\bin\Debug\Chess_PawnsOnly.pdb
+C:\Users\laios\Desktop\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.csprojResolveAssemblyReference.cache
+C:\Users\laios\Desktop\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.GameForm.resources
+C:\Users\laios\Desktop\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.Properties.Resources.resources
+C:\Users\laios\Desktop\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.csproj.GenerateResource.Cache
+C:\Users\laios\Desktop\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.csproj.CoreCompileInputs.cache
+C:\Users\laios\Desktop\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.exe
+C:\Users\laios\Desktop\Chess_PawnsOnly\Chess_PawnsOnly\obj\Debug\Chess_PawnsOnly.pdb
